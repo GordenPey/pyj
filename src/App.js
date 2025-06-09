@@ -34,7 +34,7 @@ export default function ResumeWebsite() {
         {/* Center logo */}
         <div className="w-1/3 flex justify-center">
           <img
-            src="pyj.png" // change path as needed
+            src="/logo/pyj.png" // change path as needed
             alt="PYJTuition Logo"
             className="h-8 md:h-10 object-contain"
           />
@@ -81,7 +81,7 @@ export default function ResumeWebsite() {
           className="w-40 h-40 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-white shadow-lg md:mr-6"
         >
           <img
-            src="my photo.jpeg" // Make sure this path is correct
+            src="my-photo.jpeg" // Make sure this path is correct
             alt="Gorden's portrait"
             className="w-full h-full object-cover"
           />
