@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pyj/static/css/main.a26b1b01.css",
+    "main.js": "/pyj/static/js/main.32a71ebe.js",
+    "index.html": "/pyj/index.html",
+    "main.a26b1b01.css.map": "/pyj/static/css/main.a26b1b01.css.map",
+    "main.32a71ebe.js.map": "/pyj/static/js/main.32a71ebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a26b1b01.css",
+    "static/js/main.32a71ebe.js"
+  ]
+}
