@@ -34,7 +34,7 @@ export default function ResumeWebsite() {
         {/* Center logo */}
         <div className="w-1/3 flex justify-center">
           <img
-            src="/logo/pyj.png" // change path as needed
+            src="pyj.png" // change path as needed
             alt="PYJTuition Logo"
             className="h-8 md:h-10 object-contain"
           />
@@ -156,42 +156,42 @@ export default function ResumeWebsite() {
             {/* Example testimonial image */}
             <div className="min-w-[300px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/testimonials/testi1.jpg"
+                src="testi1.jpg"
                 alt="testimonial 1"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[300px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/testimonials/testi2.jpg"
+                src="testi2.jpg"
                 alt="testimonial 2"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[300px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/testimonials/testi3.jpg"
+                src="testi3.jpg"
                 alt="testimonial 3"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[300px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/testimonials/testi4.jpg"
+                src="testi4.jpg"
                 alt="testimonial 4"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[300px] h-auto border border-gray-700 rounded-lg overflow-hidden">
               <img
-                src="/testimonials/testimonial5.jpg"
+                src="testimonial5.jpg"
                 alt="Testimonial 5"
                 className="w-full h-auto object-contain"
               />
             </div>
             <div className="min-w-[300px] h-auto border border-gray-700 rounded-lg overflow-hidden">
               <img
-                src="/testimonials/testimonial6.jpg"
+                src="testimonial6.jpg"
                 alt="Testimonial 6"
                 className="w-full h-auto object-contain"
               />
@@ -230,42 +230,42 @@ export default function ResumeWebsite() {
             {/* Example testimonial image */}
             <div className="min-w-[300px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/resource/resource1.png"
+                src="resource1.png"
                 alt="resource 1"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[100px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/resource/resource2.png"
+                src="resource2.png"
                 alt="resource 2"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[100px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/resource/resource3.png"
+                src="resource3.png"
                 alt="resource 3"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[100px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/resource/resource4.png"
+                src="resource4.png"
                 alt="resource 4"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[100px] h-[350px] border border-gray-700 rounded-lg overflow-hidden flex items-center justify-center">
               <img
-                src="/resource/resource5.png"
+                src="resource5.png"
                 alt="resource 5"
                 className="max-w-full max-h-full object-contain"
               />
             </div>
             <div className="min-w-[300px] h-auto border border-gray-700 rounded-lg overflow-hidden">
               <img
-                src="/resource/resource6.jpg"
+                src="resource6.jpg"
                 alt="resource 6"
                 className="w-full h-auto object-contain"
               />
@@ -356,7 +356,7 @@ export default function ResumeWebsite() {
             rel="noopener noreferrer"
           >
             <img
-              src="/logo/whatsapp-icon.png"
+              src="whatsapp-icon.png"
               alt="Chat on WhatsApp"
               className="w-6 h-6 hover:opacity-80 transition-opacity"
             />
@@ -367,7 +367,7 @@ export default function ResumeWebsite() {
             rel="noopener noreferrer"
           >
             <img
-              src="/logo/tele-icon.png"
+              src="tele-icon.png"
               alt="Chat on Telegram"
               className="w-7 h-7 hover:opacity-80 transition-opacity"
             />
